@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+In this project you can see following screen:
+1.Splash screen
+2.walkthrough
+3.Login screen
+4. Bottom navigation 
+5.navigation drawer(added only for demo)
+6.search bar
+7.list view 
+
+
